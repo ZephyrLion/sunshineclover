@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=sunshineclover)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunshineclover&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
