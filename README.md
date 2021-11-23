@@ -4,7 +4,8 @@
   <a href="https://gitee.com/gentlewindlion"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/sunshineclover"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
   <a href="https://gentlewindlion.gitee.io/"><img src="https://img.shields.io/badge/blog-blue" alt="blog"></a>
-  <a href="https://wakatime.com/@Tian"><img src="https://wakatime.com/badge/user/164c9d7f-88b4-4b58-a924-8184e897fcd6.svg" alt="Total time coded since Nov 23 2021" /></a>
+  <a href="https://space.bilibili.com/249396108"><img src="https://img.shields.io/badge/bilibili-pink" alt="blog"></a>
+  <a href="https://www.zhihu.com/people/sunshineclover"><img src="https://img.shields.io/badge/zhihu-blue" alt="blog"></a>
 </p>
 <h2>是一位HFUT宣区的大二电信科专业学生~</h2>
 
