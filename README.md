@@ -11,8 +11,19 @@
 - 🎓目前在学习前端ing，希望能学明白~
 - 🌱github上主要存一些学校的作业/课程相关的东西，及一些正在学习的代码~
 
+
 **代码占比~**
+
+<a href="https://github.com/sunshineclover">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sunshineclover&show_icons=true" />
+</a>
+
+
+**代码占比~**
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunshineclover&layout=compact)
+
+
 
 **上周编码时长**  
 
