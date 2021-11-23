@@ -1,7 +1,5 @@
 <h2 align="center">👋 欢迎来到这里~</h2>
 
-<img align="center" src="https://i.ibb.co/b6GmWWT/2.jpg" >
-
 
 <p align="center">
   <a href="https://github.com/sunshineclover"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
@@ -11,6 +9,10 @@
   <a href="https://space.bilibili.com/249396108"><img src="https://img.shields.io/badge/bilibili-pink" alt="blog"></a>
   <a href="https://www.zhihu.com/people/sunshineclover"><img src="https://img.shields.io/badge/zhihu-blue" alt="blog"></a>
 </p>
+
+
+<img align="center" src="https://i.ibb.co/b6GmWWT/2.jpg" style="margin: 0 auto" >
+
 <h2>是一位HFUT宣区的大二电信科专业学生~</h2>
 
 - 🔭喜欢追番，也喜欢听歌，欢迎~
@@ -32,7 +34,7 @@
 **我永远喜欢芝麻凛！**
 
 
-<img align="center" src="https://i.ibb.co/p178xRs/1633511536007.jpg" >
+<img src="https://i.ibb.co/p178xRs/1633511536007.jpg" style="margin: 0 auto"  >
 
 
 
