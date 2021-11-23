@@ -5,8 +5,7 @@
   <a href="https://blog.csdn.net/sunshineclover"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
   <a href="https://wakatime.com/@Tian"><img src="https://wakatime.com/badge/user/164c9d7f-88b4-4b58-a924-8184e897fcd6.svg" alt="Total time coded since Nov 23 2021" /></a>
 </p>
-**是一位HFUT宣区的大二电信科专业学生~**  
-
+<h2>是一位HFUT宣区的大二电信科专业学生~</h2>
 
 - 🔭喜欢追番，也喜欢听歌，欢迎~
 - 🎓目前在学习前端ing，希望能学明白~
