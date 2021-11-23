@@ -1,6 +1,6 @@
 <h2 align="center">👋 欢迎来到这里~</h2>
 
-<img align="center" src="https://i.ibb.co/b6GmWWT/2.jpg" width="50">
+<img align="center" src="https://i.ibb.co/b6GmWWT/2.jpg" >
 
 
 <p align="center">
@@ -32,7 +32,7 @@
 **我永远喜欢芝麻凛！**
 
 
-<img align="center" src="https://i.ibb.co/p178xRs/1633511536007.jpg" width="50">
+<img align="center" src="https://i.ibb.co/p178xRs/1633511536007.jpg" >
 
 
 
