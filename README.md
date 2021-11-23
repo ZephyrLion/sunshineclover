@@ -10,8 +10,7 @@
   <a href="https://www.zhihu.com/people/sunshineclover"><img src="https://img.shields.io/badge/zhihu-blue" alt="blog"></a>
 </p>
 
-
-<img align="center" src="https://i.ibb.co/b6GmWWT/2.jpg" style="margin: 0 auto" >
+<div style="text-align:center"><img src="https://i.ibb.co/b6GmWWT/2.jpg" /></div>
 
 <h2>是一位HFUT宣区的大二电信科专业学生~</h2>
 
@@ -33,8 +32,7 @@
 最后：
 **我永远喜欢芝麻凛！**
 
-
-<img src="https://i.ibb.co/p178xRs/1633511536007.jpg" style="margin: 0 auto"  >
+<div style="text-align:center"><img src="https://i.ibb.co/p178xRs/1633511536007.jpg" /></div>
 
 
 
