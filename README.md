@@ -10,7 +10,7 @@
   <a href="https://www.zhihu.com/people/sunshineclover"><img src="https://img.shields.io/badge/zhihu-blue" alt="blog"></a>
 </p>
 
-<h1><div style="text-align:center"><img src="https://i.ibb.co/b6GmWWT/2.jpg" /></div></h1>
+<div style="text-align:center"><img src="https://i.ibb.co/b6GmWWT/2.jpg" /></div>
 
 <h2>是一位HFUT宣区的大二电信科专业学生~</h2>
 
