@@ -1,6 +1,6 @@
 <h2 align="center">👋 欢迎来到这里~</h2>
 
-<a href="https://ibb.co/D1jWVVh"><img src="https://i.ibb.co/b6GmWWT/2.jpg" alt="2" border="0"></a>
+<img align="center"src="https://i.ibb.co/b6GmWWT/2.jpg"
 
 
 <p align="center">
