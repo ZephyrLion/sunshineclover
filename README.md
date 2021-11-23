@@ -5,7 +5,7 @@
   <a href="https://github.com/sunshineclover"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
   <a href="https://gitee.com/gentlewindlion"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/sunshineclover"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
-  <a href="https://gentlewindlion.gitee.io/"><img src="https://img.shields.io/badge/blog-blue" alt="blog"></a>
+  <a href="https://gentlewindlion.gitee.io/"><img src="https://img.shields.io/badge/blog-green" alt="blog"></a>
   <a href="https://space.bilibili.com/249396108"><img src="https://img.shields.io/badge/bilibili-pink" alt="blog"></a>
   <a href="https://www.zhihu.com/people/sunshineclover"><img src="https://img.shields.io/badge/zhihu-blue" alt="blog"></a>
 </p>
