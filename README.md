@@ -28,7 +28,7 @@
 **我永远喜欢芝麻凛！**
 
 
-<img align="center" src="https://ibb.co/wdkXRwb"><img src="https://i.ibb.co/p178xRs/1633511536007.jpg" />
+<img align="center" src="https://i.ibb.co/p178xRs/1633511536007.jpg" />
 
 
 
