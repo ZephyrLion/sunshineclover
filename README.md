@@ -1,4 +1,4 @@
-### 欢迎 👋
+<h2 align="center">👋 欢迎来到这里~</h2>
 <p align="center">
   <a href="https://github.com/sunshineclover"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
   <a href="https://gitee.com/gentlewindlion"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
@@ -10,8 +10,6 @@
 - 🔭喜欢追番，也喜欢听歌，欢迎~
 - 🎓目前在学习前端ing，希望能学明白~
 - 🌱github上主要存一些学校的作业/课程相关的东西，及一些正在学习的代码~
-
-![](https://github-readme-stats.vercel.app/api?username=sunshineclover)
 
 **代码占比~**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunshineclover&layout=compact)
