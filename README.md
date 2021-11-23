@@ -14,11 +14,9 @@
 - 🌱github上主要存一些学校的作业/课程相关的东西，及一些正在学习的代码~
 
 
-**摸鱼情况~**
+**摸鱼情况~**<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<a href="https://github.com/sunshineclover">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sunshineclover&show_icons=true" />
-</a>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=sunshineclover&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 
 
 **代码占比~**
