@@ -33,13 +33,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2021 - 28 November, 2021
+Week: 23 November, 2021 - 29 November, 2021
 
-Markdown     3 hrs 32 mins   █████████████▓░░░░░░░░░░░   54.69 % 
-C++          2 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   32.71 % 
-Python       25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Markdown     3 hrs 32 mins   █████████████▓░░░░░░░░░░░   54.49 % 
+C++          2 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Python       25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 <!--END_SECTION:waka-->
 
