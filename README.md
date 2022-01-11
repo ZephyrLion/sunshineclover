@@ -6,8 +6,9 @@
   <a href="https://gitee.com/gentlewindlion"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/sunshineclover"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
   <a href="https://gentlewindlion.gitee.io/"><img src="https://img.shields.io/badge/blog-green" alt="blog"></a>
-  <a href="https://space.bilibili.com/249396108"><img src="https://img.shields.io/badge/bilibili-pink" alt="blog"></a>
-  <a href="https://www.zhihu.com/people/sunshineclover"><img src="https://img.shields.io/badge/zhihu-blue" alt="blog"></a>
+  <a href="https://lateral-insect-a22.notion.site/2022-6898f97a75224f06b978c686b5e3dd3f"><img src="https://img.shields.io/badge/blog-red" alt="dailyroute"></a>
+  <a href="https://space.bilibili.com/249396108"><img src="https://img.shields.io/badge/bilibili-pink" alt="bilibili"></a>
+  <a href="https://www.zhihu.com/people/sunshineclover"><img src="https://img.shields.io/badge/zhihu-blue" alt="zhihu"></a>
 </p>
 
 <div style="text-align:center"><img src="https://i.ibb.co/b6GmWWT/2.jpg" /></div>
@@ -17,6 +18,7 @@
 - 🔭喜欢追番，也喜欢听歌，欢迎~
 - 🎓目前在学习前端ing，希望能学明白~
 - 🌱github上主要存一些学校的作业/课程相关的东西，及一些正在学习的代码~
+- 🎓目前使用Notion作为自己的计划安排表，利用Hexo搭建静态blog~
 
 
 **摸鱼情况~**<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
