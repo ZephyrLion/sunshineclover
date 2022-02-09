@@ -35,11 +35,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
-
-JavaScript      55 mins         ██████████████████████▓░░   90.75 % 
-JSON            2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Other           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
