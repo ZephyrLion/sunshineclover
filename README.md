@@ -22,7 +22,7 @@
 
 **学习情况~** 
 
-详见[另一个仓库~](https://github.com/sunshineclover/Learning)
+详见[另一个仓库~](https://github.com/sunshineclover/Learning)，该仓库主要存储个人的学习历程~ 保存些个人正在学习的东西，学习路线，资料与练习的代码等。也保存些自己整理的一些比较有用的东西~
 
 **摸鱼情况~**<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
