@@ -20,7 +20,9 @@
 - 🌱github上主要存一些学校的作业/课程相关的东西，及一些正在学习的代码~
 - 🎓目前使用Notion作为自己的计划安排表，利用Hexo搭建静态blog~
 
-**学习情况~** 详见[另一个仓库~](https://github.com/sunshineclover/Learning)
+**学习情况~** 
+
+详见[另一个仓库~](https://github.com/sunshineclover/Learning)
 
 **摸鱼情况~**<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
