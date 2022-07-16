@@ -13,7 +13,7 @@
 
 <div style="text-align:center"><img src="https://i.ibb.co/b6GmWWT/2.jpg" /></div>
 
-<h2>是一位HFUT宣区的大二电信科专业学生~</h2>
+<h2>是一位HFUT宣区的大三电信科专业学生~</h2>
 
 - 🔭喜欢追番，也喜欢听歌，欢迎~
 - 🎓目前在学习前端ing，希望能学明白~
