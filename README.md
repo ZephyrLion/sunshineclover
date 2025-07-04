@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/sunshineclover"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
+  <a href="https://github.com/ZephyrLion"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
   <a href="https://gitee.com/gentlewindlion"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/sunshineclover"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
   <a href="https://www.gentlewindlion.cn"><img src="https://img.shields.io/badge/blog-green" alt="blog"></a>
@@ -13,10 +13,10 @@
 
 <div style="text-align:center"><img src="https://i.ibb.co/b6GmWWT/2.jpg" /></div>
 
-<h2>是一位HFUT宣区的大三电信科专业学生~</h2>
+<h2>是一位SEU的研二电磁场专业学生~</h2>
 
 - 🔭喜欢追番，也喜欢听歌，欢迎~
-- 🎓目前在学习前端ing，希望能学明白~
+- 🎓目前在学习炼丹，希望能学明白~
 - 🌱github上主要存一些学校的作业/课程相关的东西，及一些正在学习的代码~
 - 🎓目前使用Notion配合Obsidian作为自己的计划安排表，利用WordPress搭建静态blog~
 
